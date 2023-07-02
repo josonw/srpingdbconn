@@ -1,0 +1,9 @@
+spring:
+  datasource:
+     driver-class-name: org.apache.hive.jdbc.HiveDriver
+     url: jdbc:hive2://192.168.3.109:10000/default
+     username: wbz
+     password: 123123
+
+
+
